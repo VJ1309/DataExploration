@@ -3,5 +3,5 @@ pandas
 numpy
 ydata_profiling
 pygwalker
-langchain_groq.chat_models
+langchain_groq
 pandasai
